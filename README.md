@@ -64,11 +64,13 @@ Space - Shoot Pellets
 
 2. There's no settings system yet volume, controls, and screen resolution are not configurable.
 
-3. When the ship is destroyed, the game closes instantly. There's no "Try Again" or "Back to Menu" screen.
+3. If the player goes on full screen during the Menu screen, the buttons will not work (will fix soon).
 
-4. When the ship destroys all the rocks, all the player can do is just roam in empty space with no rocks (will fix soon).
+4. When the ship is destroyed, the game closes instantly. There's no "Try Again" or "Back to Menu" screen.
 
-5. I’ve had lots of difficulties with buttons and UI implementation using SFML 3.0, I'll do my best to improve them soon.
+5. When the ship destroys all the rocks, all the player can do is just roam in empty space with no rocks (will fix soon).
+
+6. I’ve had lots of difficulties with buttons and UI implementation using SFML 3.0, I'll do my best to improve them soon.
 
 
 # Tech Stack
