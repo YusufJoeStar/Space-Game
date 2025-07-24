@@ -17,7 +17,7 @@
 
 
 
-This is a simple Space (Asteroids)-style game that I developed over the course of a week. The project started with guidance from Mesos Aurum on youtube and was further refined using Claude AI. Although it's still a work in progress, I’m proud of how far it has come.
+This is a simple Space (Asteroids)-style game that I developed over the course of a week. The project started with guidance from Mesos Aurum on youtube and was further refined using Claude AI. It still needs a lot of polishing.
 
 
 
