@@ -80,7 +80,7 @@ Graphics Library: [SFML 3.0 ](https://www.sfml-dev.org/)   (this is my first tim
 
 
 # SFML Setup
-I build this project on Code::Blocks, those are links on how to link SFML:
+I built this project on Code::Blocks, those are links on how to link SFML:
 
 https://www.sfml-dev.org/tutorials/3.0/ (Official SFML website)
 
