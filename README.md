@@ -1,10 +1,16 @@
 # SpaceGame
 
 
-<img width="1601" height="900" alt="image" src="https://github.com/user-attachments/assets/73ae9220-5d34-4bcc-9b8f-211be36bdef0" />
+<img width="1591" height="888" alt="image" src="https://github.com/user-attachments/assets/25c83de1-0976-4caa-91e4-0e5d6b730044" />
+
 
 
 <img width="1595" height="903" alt="image" src="https://github.com/user-attachments/assets/a238771d-8cae-4b13-8373-368083fe2a4b" />
+
+
+
+<img width="1589" height="891" alt="image" src="https://github.com/user-attachments/assets/e6e123df-c0b4-4e5a-88fb-6f458c5bce47" />
+
 
 
 
