@@ -68,14 +68,27 @@ Space - Shoot Pellets
 
 4. When the ship destroys all the rocks, all the player can do is just roam in empty space with no rocks (will fix soon).
 
-5. I’ve had lots of hard times with buttons and UI implementation using SFML 3.0, I'll do my best to improve them soon.
+5. I’ve had lots of difficulties with buttons and UI implementation using SFML 3.0, I'll do my best to improve them soon.
+
+
+# Tech Stack
+Language: C++
+
+Graphics Library: [SFML 3.0 ](https://www.sfml-dev.org/)   (this is my first time using SFML).
+
+
+# SFML Setup
+I build this project on Code::Blocks, those are links on how to link SFML:
+
+https://www.sfml-dev.org/tutorials/3.0/ (Official SFML website)
 
 
 
+https://www.youtube.com/results?search_query=sfml+3.0+codeblocks+setup (Youtube)
 
 
 
 # Code Usage
 
-Feel free to use any part of this code in your own projects — personal, educational, or commercial.
+Feel free to use any part of this code in your own projects, personal, educational, or commercial.
 No credit or permission required. I’m just happy if it helps someone else.
