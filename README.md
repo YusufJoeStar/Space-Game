@@ -1,5 +1,15 @@
 # SpaceGame
 
+
+<img width="1601" height="900" alt="image" src="https://github.com/user-attachments/assets/73ae9220-5d34-4bcc-9b8f-211be36bdef0" />
+
+
+<img width="1595" height="903" alt="image" src="https://github.com/user-attachments/assets/a238771d-8cae-4b13-8373-368083fe2a4b" />
+
+
+
+
+
 This is a simple Space (Asteroids)-style game that I developed over the course of a week. The project started with guidance from Mesos Aurum on youtube and was further refined using Claude AI. Although it's still a work in progress, I’m proud of how far it has come.
 
 
